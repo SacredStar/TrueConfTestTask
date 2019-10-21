@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(124,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(49,17): warning C4018: '>': signed/unsigned mismatch
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(139): message : see reference to function template instantiation 'int delete_from_struct<std::vector<int,std::allocator<int>>>(T &,int)' being compiled
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(139): message :         with
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(139): message :         [
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(139): message :             T=std::vector<int,std::allocator<int>>
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(139): message :         ]
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(61): warning C4715: 'delete_from_struct<std::vector<int,std::allocator<int> > >': not all control paths return a value
+C:\Users\shado\source\repos\TrueConf_TestTask\main.cpp(61): warning C4715: 'delete_from_struct<std::map<int,int,std::less<int>,std::allocator<std::pair<int const ,int> > > >': not all control paths return a value
+  TrueConf_TestTask.vcxproj -> C:\Users\shado\source\repos\TrueConf_TestTask\Debug\TrueConf_TestTask.exe
